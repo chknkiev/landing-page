@@ -1,0 +1,42 @@
+body {
+    font-family: Verdana, sans-serif;
+    display: flex;
+    margin: auto;
+}
+
+.header-container {
+    background-color: #1F2937;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 48px;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    margin-left: auto;
+}
+
+.hero {
+
+}
+
+.herotitle {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+
+}
+
+.herotext {
+    font-size: 18px;
+    color: #E5E7EB;
+}
