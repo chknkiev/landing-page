@@ -5,7 +5,7 @@ body {
     flex-direction: column;
 }
 
-.header-container {
+.header-container, .footer {
     background-color: #1F2937;
     display: flex;
     flex-direction: column;
@@ -138,4 +138,10 @@ button {
     border: white;
     border-style: solid;
     margin: 5px;
+}
+
+.footer {
+    color: white;
+    text-align: center;
+    padding: 50px;
 }
