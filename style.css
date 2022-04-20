@@ -112,13 +112,14 @@ button {
     text-align: center;
     display: flex;
     flex-direction: column;
-    padding: 100px 300px 100px 300px;
+    padding: 150px 200px 150px 200px;
 }
 
 .text {
-    text-size-adjust: 36px;
+    font-size: 36px;
     font-style: italic;
     color: #1F2937;
+    font-weight: lighter;
     text-align: left;
 }
 
@@ -126,6 +127,7 @@ button {
     font-weight: bold;
     align-self: flex-end;
     justify-self: flex-end;
+    font-size: 20px;
 }
 
 .signup {
