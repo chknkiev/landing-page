@@ -120,3 +120,22 @@ button {
     align-self: flex-end;
     justify-self: flex-end;
 }
+
+.signup {
+    background-color: #3882F6;
+    border-radius: 10px;
+    padding: 50px;
+    display: flex;
+    color: white;
+}
+
+.action {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#signupbutton {
+    border: white;
+    border-style: solid;
+    margin: 5px;
+}
